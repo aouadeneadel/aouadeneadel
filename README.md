@@ -14,5 +14,5 @@
 - Développement web en PHP
 - Fondamentaux de l'IA avec Python
 
-## 📫 Me contacter
+## Me contacter
 - ✉️ Email : adel.aouadene@ik.me

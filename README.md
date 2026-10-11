@@ -1,16 +1,18 @@
-## Hi there 👋
+# Salut, moi c'est Adel 👋
 
-<!--
-**aouadeneadel/aouadeneadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en **Licence Intelligence Artificielle**, passionné par le développement logiciel et la résolution de problèmes techniques.
 
-Here are some ideas to get you started:
+## 🛠️ Langages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Ce que je travaille
+- Algorithmique et structures de données
+- Programmation système en C
+- Développement web en PHP
+- Fondamentaux de l'IA avec Python
+
+## 📫 Me contacter
+- 🌐 Portfolio : [adelaouadene.vecrel.app](https://adelaouadene.vecrel.app)

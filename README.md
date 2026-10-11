@@ -1,4 +1,4 @@
-# Salut, moi c'est Adel 👋
+# Salut, moi c'est Adel
 
 Étudiant en **Licence Intelligence Artificielle**, passionné par le développement logiciel et la résolution de problèmes techniques.
 

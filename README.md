@@ -15,4 +15,4 @@
 - Fondamentaux de l'IA avec Python
 
 ## 📫 Me contacter
-- 🌐 Portfolio : [adelaouadene.vecrel.app](https://adelaouadene.vecrel.app)
+- 🌐 Portfolio : [adelaouadene.vercel.app](https://adelaouadene.vercel.app)

@@ -21,4 +21,4 @@
 - Fondamentaux de l'IA avec Python
 
 ## Me contacter
-- ✉️ Email : adel.aouadene@ik.me
+- ✉️ Email : adel.aouadene@hotmail.com

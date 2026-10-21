@@ -1,18 +1,115 @@
-# 💫 About Me:
-🔭 I'm currently pursuing a Bachelor's degree in Artificial Intelligence.<br><br>👯 I'm looking to collaborate on software development and AI projects.<br><br>🤝 I'm looking to improve my skills in software engineering and problem-solving.<br><br>🌱 I'm currently learning Artificial Intelligence, Machine Learning, and software development.<br><br>💬 Ask me about programming, software development, and technical problem-solving.<br><br>⚡ Fun fact: I enjoy turning complex technical problems into practical solutions!
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · aouadeneadel</sub></p>
+<h1>AOUADENE Adel</h1>
+<h2>Backend or systems engineer</h2>
+<p>Etudiant en Licence intelligence artificielle, je suis passionné par le développement logiciel et la résolution de problèmes techniques.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adel.aouadene) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adel.aouadene@hotmail.com) 
+<p><a href="https://github.com/aouadeneadel">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/177121553?u=c24c2a00613b091b4d8b4652dc94c7c8ecbf4923&amp;v=4" width="180" alt="AOUADENE Adel GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aouadeneadel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aouadeneadel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aouadeneadel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>What teams can evaluate quickly</h2>
 
----
-[![](https://komarev.com/ghpvc/?username=aouadeneadel&icon=0&color=0)](https://visitcount.itsvg.in)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Python · Shell · C</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 1 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>10 contributions · 9 active days</p></td>
+</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><sub>Etudiant en Licence intelligence artificielle, je suis passionné par le développement logiciel et la résolution de problèmes techniques.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>10</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aouadeneadel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177121553%3Fu%3Dc24c2a00613b091b4d8b4652dc94c7c8ecbf4923%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=aouadeneadel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177121553%3Fu%3Dc24c2a00613b091b4d8b4652dc94c7c8ecbf4923%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="AOUADENE Adel GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=aouadeneadel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177121553%3Fu%3Dc24c2a00613b091b4d8b4652dc94c7c8ecbf4923%26v%3D4&repos=aouadeneadel%2FA-Algorithm%2Caouadeneadel%2FABN-Bot%2Caouadeneadel%2Flawnchair%2Caouadeneadel%2FABN-Bot&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=aouadeneadel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177121553%3Fu%3Dc24c2a00613b091b4d8b4652dc94c7c8ecbf4923%26v%3D4&repos=aouadeneadel%2FA-Algorithm%2Caouadeneadel%2FABN-Bot%2Caouadeneadel%2Flawnchair%2Caouadeneadel%2FABN-Bot&v=recruiter-projects-1&mode=dark" width="100%" alt="AOUADENE Adel selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/aouadeneadel/A-Algorithm">A-Algorithm</a></h3>
+<p>A selected public project.</p>
+<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/aouadeneadel/A-Algorithm">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/aouadeneadel/ABN-Bot">ABN-Bot</a></h3><p>Script to test erase and inventory computer along refurbishing</p><p><sub>Shell · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/aouadeneadel/lawnchair">lawnchair</a></h3><p>No clever tagline needed.</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/BANQUE-DU-NUMERIQUE/ABN-Bot">ABN-Bot</a></h3><p>Script to test erase and inventory computer along refurbishing</p><p><sub>Shell · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aouadeneadel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177121553%3Fu%3Dc24c2a00613b091b4d8b4652dc94c7c8ecbf4923%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=aouadeneadel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177121553%3Fu%3Dc24c2a00613b091b4d8b4652dc94c7c8ecbf4923%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="AOUADENE Adel technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>71% of public code</sub></td>
+<td width="20%" align="center"><strong>Shell</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>C</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aouadeneadel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177121553%3Fu%3Dc24c2a00613b091b4d8b4652dc94c7c8ecbf4923%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=aouadeneadel&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177121553%3Fu%3Dc24c2a00613b091b4d8b4652dc94c7c8ecbf4923%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="AOUADENE Adel contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/aouadeneadel">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>AOUADENE Adel · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
